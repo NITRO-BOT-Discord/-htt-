@@ -1,0 +1,1 @@
+git remote add origin https://github.com/NITRO-BOT-Discord/-https-qwerybotds.github.io-.git
